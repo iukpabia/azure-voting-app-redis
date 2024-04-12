@@ -10,11 +10,11 @@ reliability, and scalability of my application deployment process.
 I started with manual deployment of Azure Kubernetes Service (AKS) and Azure Container Registry
 (ACR). These are critical preparatory steps before diving into automation CI/CD with
 Jenkins. 
-During manual deployment, i was able to thoroughly test and validate the application in the AKS
+During manual deployments, i was able to thoroughly test and validate the application in the AKS
 environment. This involved making sure that all components worked seamlessly within the
 Kubernetes cluster and fine-tuned configurations for optimal performance. 
-Additionally, manual deployment allowed for in-depth technical scrutiny. 
-Integration testing, another critical aspect, was carried out during manual deployment to
+Additionally, the manual deployment allowed for in-depth technical scrutiny. 
+Integration testing, another critical aspect, was carried out during manual deployments to
 confirm that all parts of my application worked together harmoniously within AKS. 
 <br />
 
