@@ -12,11 +12,11 @@ reliability, and scalability of application deployment process.
 
 <h2>Tools</h2>
 
-- <b>Codecommit</b> 
-- <b>Codebuild</b>
-- <b>Codedeploy</b>
-- <b>S3</b>
-- <b>EC2</b>
+- <b>Github</b> 
+- <b>AKS</b>
+- <b>ACR</b>
+- <b>Jenkins</b>
+- <b>Docker</b>
 
 <h2>Deployment Destination </h2>
 
