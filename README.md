@@ -6,21 +6,30 @@
 <h2>Description</h2>
 In this project, i embarked on a strategy to streamline manual deployments to AKS via ACR
 and implement an automated CI/CD pipeline using Jenkins. The goal is to enhance the efficiency,
-reliability, and scalability of application deployment process.
+reliability, and scalability of my application deployment process. 
+I started with manual deployment of Azure Kubernetes Service (AKS) and Azure Container Registry
+(ACR). These are critical preparatory steps before diving into automation CI/CD with
+Jenkins. 
+During manual deployment, i was able to thoroughly test and validate the application in the AKS
+environment. This involved making sure that all components worked seamlessly within the
+Kubernetes cluster and fine-tuned configurations for optimal performance. 
+Additionally, manual deployment allowed for in-depth technical scrutiny. 
+Integration testing, another critical aspect, was carried out during manual deployment to
+confirm that all parts of my application worked together harmoniously within AKS. 
 <br />
 
 
 <h2>Tools</h2>
 
 - <b>Github</b> 
-- <b>AKS</b>
-- <b>ACR</b>
+- <b>Azure Kubernetes Service (AKS)</b>
+- <b>Azure Container Registry (ACR)</b>    
 - <b>Jenkins</b>
-- <b>Docker</b>
+- <b>Azure Kubernetes Cluster</b>
 
 <h2>Deployment Destination </h2>
 
-- <b>EC2 Virtual Machine</b> 
+- <b>Azure Kubernetes Cluster</b> 
 
 <h2>Project walk-through:</h2>
 
