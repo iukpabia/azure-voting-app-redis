@@ -106,33 +106,10 @@ Deploy application to Azure Kurbenetes Cluster (AKS) <br/>
 <br />
 <br />
 
-Automate the entire deployment process using Codepipeline <br/>
-
-<img width="450" alt="step 11" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/f7e6dae7-11c6-440c-ba1d-d9f825e8b1df"/>
-
-<br />
-<br />
+Automate the entire deployment process using Jenkins <br/>
 
 
-The build process <br/>
 
-<img width="450" alt="step 12" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3b43467c-43c5-45c5-a52a-8784ca8d3ff2"/>
-
-
-<br />
-<br />
-
-The deployment process <br/>
-
-<img width="450" alt="step 13" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3dc6423c-f224-438b-8845-e79ac4eb218d"/>
-
-
-<br />
-<br />
-
-Viola!!! the end product <br/>
-
-<img width="450" alt="step 14" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/9cad995f-5b76-4dde-9024-79ead58315b4"/>
 
 <br />
 <br />
