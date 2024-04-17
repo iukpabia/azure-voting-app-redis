@@ -54,16 +54,16 @@ Create an Azure Kurbenetes Cluster (AKS). <br/>
 <br />
 <br />
 
-Create a project on Code build <br/>
+Clone Git repository <br/>
 
-<img width="450" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
+<img width="450" alt="Picture4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/cdd597eb-86dd-4ee1-94eb-d989c9aad48a">
 
 <br />
 <br />
 
-Test the project <br/>
+Build the Docker image <br/>
 
-<img width="450" alt="step 5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c82b57d0-c071-47c4-92fe-4956140eb5e3"/>
+<img width="450" alt="Picture5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/7ba2ad27-f586-46b8-9e43-00ad48a2756e">
 
 <br />
 <br />
