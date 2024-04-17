@@ -42,15 +42,15 @@ create a VM with Ubuntu 20.04, install Docker and Docker Compose <br/>
 <br />
 <br />
 
-Create Azure container registry and capture details for futher use. <br/>
+Create Azure container registry (ACR) and capture details for futher use. <br/>
 
 <img width="450" alt="Picture2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/785a119a-0530-4d81-9a5e-3c734daa688e">
 <br />
 <br />
 
-Connect to remote repo and push code. <br/>
+Create an Azure Kurbenetes Cluster (AKS). <br/>
 
-<img width="450" alt="step 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/ac02b50c-f983-4b1e-a48a-9ccbc687e489"/>
+<img width="450" alt="Picture3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/58433d13-3a2e-4732-81c7-ea91109045b9">
 <br />
 <br />
 
