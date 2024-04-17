@@ -35,9 +35,10 @@ confirm that all parts of my application worked together harmoniously within AKS
 
 <p align="center">
 
-create a repository in codecommit <br/>
+create a VM with Ubuntu 20.04, install Docker and Docker Compose <br/>
 
-<img width="450" alt="step 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/92811b34-3bdc-443d-b857-15ca87552f38"/>
+<img width="450" alt="Picture1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/010f520f-72a7-4217-9ba3-bb3d4472d4e5">
+
 <br />
 <br />
 
