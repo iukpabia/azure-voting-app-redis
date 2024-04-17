@@ -42,9 +42,9 @@ create a VM with Ubuntu 20.04, install Docker and Docker Compose <br/>
 <br />
 <br />
 
-Prerequisite: download git client, generate credentials for HTTPS Git documents for AWS code commit <br/>
+Create Azure container registry and capture details for futher use. <br/>
 
-<img width="450" alt="step 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/305db7eb-4b28-461e-87fd-2907ae9d2f91"/>
+<img width="450" alt="Picture2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/785a119a-0530-4d81-9a5e-3c734daa688e">
 <br />
 <br />
 
