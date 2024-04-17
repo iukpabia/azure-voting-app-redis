@@ -68,44 +68,40 @@ Build the Docker image <br/>
 <br />
 <br />
 
-Create an EC2 instance where the website will be deployed. (attach an IAM role to the EC2 to 
-Access S3, install a code deploy agent on EC2)
- <br/>
+Confirm image build on the designated port number on browser <br/>
 
-<img width="450" alt="step 6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3e8acb66-5f18-477a-97a9-c10d4f156a49"/>
+<img width="450" alt="Picture6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/7ec23259-d6db-425e-b6d2-e8ba0d4ae7be">
 
 
 <br />
 <br />
 
-Install codedeploy agent on EC2 <br/>
+Tag image <br/>
 
-<img width="450" alt="step 7" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2c0df345-cffb-4f02-8cdf-c160f0506bd7"/>
+<img width="450" alt="Picture7" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/94e394cc-253b-43be-ac99-d1489645a758">
+
+<br />
+<br />
+
+Push Tagged image to Azure Container Registry (ACR) <br/>
+
+<img width="465" alt="Picture8" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2ee4c001-3119-4ceb-862f-27efed83347f">
+
 
 
 <br />
 <br />
 
-Create a deployment application using code deploy <br/>
 
-<img width="450" alt="step 8" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c564f140-833b-4f4a-94f5-af38d5b535ef"/>
+Deploy application to Azure Kurbenetes Cluster (AKS) <br/>
 
-
+<img width="450" alt="Picture9" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/b739e76f-ae59-4f1a-b16f-ac022242ae74">
 <br />
 <br />
 
+ Confirm application is working <br/>
 
-Create deployment group (attach a code deploy service role here) <br/>
-
-<img width="450" alt="step 9" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/46243881-6a92-4aed-8083-06c3dbd857ea"/>
-
-<br />
-<br />
-
-Create a deployment. (code deploy only supports s3 or GitHub repos not code-commit) <br/>
-
-<img width="450" alt="step 10" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/15904486-9146-48dd-a07d-7a235059e69b"/>
-
+<img width="450" alt="Picture10" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/73c8144d-f5ce-4f3f-84d7-60d912dc7ac7">
 
 <br />
 <br />
